@@ -1,4 +1,4 @@
-# GRIP_The-Spark-foundation
+# GRIP_The-Spark-foundation_Intern
 Task 1- Improve Lindedlin profile
 
 Task 2 - To Explore Supervised Machine Learning
